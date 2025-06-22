@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobi</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer & Creative Problem-Solver</h3>
 
 - 🔭 I’m currently working on [Crymsum](https://crymsum.vercel.app/)
 
