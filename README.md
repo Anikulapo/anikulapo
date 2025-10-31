@@ -24,7 +24,7 @@ I also enjoy talking about UI/UX and creating smooth user experiences.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Anikulapo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Anikulapo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Oluwatobi Alasoadura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Oluwatobi Alasoadura" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oluwatobiloba-alasoadura-699aa21b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Oluwatobi Alasoadura" height="30" width="40" /></a>
 <a href="https://twitter.com/Greatalash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Greatalash1" height="30" width="40" /></a>
 </p>
 
