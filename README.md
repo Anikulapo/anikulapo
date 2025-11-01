@@ -19,7 +19,7 @@ I also enjoy talking about UI/UX and creating smooth user experiences.**
 
 - 👨‍💻 All of my projects are available at **[https://portfolio-five-gules-17.vercel.app/](https://portfolio-five-gules-17.vercel.app/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1AWkZ-HXW-ZqeZBfXxKQwQKCGICImVGKS/view?usp=sharing](https://drive.google.com/file/d/1AWkZ-HXW-ZqeZBfXxKQwQKCGICImVGKS/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1cU4F8g2ZvzDe18g3e2CWqYTSidNt1dCR/view?usp=sharing](https://drive.google.com/file/d/1cU4F8g2ZvzDe18g3e2CWqYTSidNt1dCR/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
