@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **A few frontend projects built with React, Next.js, and Tailwind CSS, while learning Go for backend development and exploring DevOps tools like Docker and CI/CD pipelines.**
 
-- 🌱 I'm currently learning **Go and Postgresql**
+- 🌱 I'm currently learning **Python and Postgresql**
 
 - 👯 I'm looking to collaborate on **I'm looking to collaborate on frontend and full-stack projects using React, Next.js, or Go to learn, build real-world solutions, and grow through teamwork and innovation.**
 
