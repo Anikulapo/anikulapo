@@ -16,9 +16,9 @@
 
 - ⚡ Fun fact **I enjoy turning complex ideas into clean, interactive, and user-friendly web experiences.**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-five-gules-17.vercel.app/](https://portfolio-five-gules-17.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[https://alasoadura-tobi.vercel.app/](https://alasoadura-tobi.vercel.app/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/11TtP_ApYHjzp-Q8OhGNlBUQHfrCG7sJ9/view?usp=sharing](https://drive.google.com/file/d/11TtP_ApYHjzp-Q8OhGNlBUQHfrCG7sJ9/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1qylbTYrsW5xt7AR376uuAqWjFGtQ8hwY/view?usp=sharing](https://drive.google.com/file/d/1qylbTYrsW5xt7AR376uuAqWjFGtQ8hwY/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
